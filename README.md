@@ -1,5 +1,5 @@
 # Maze-Pathfinding-AI
-"An AI project implementing BFS, DFS, Greedy Best-First Search, and A* algorithms to find paths in a maze using Python and OpenCV.
+An AI project implementing BFS, DFS, Greedy Best-First Search, and A* algorithms to find paths in a maze using Python and OpenCV.
 
 <img width="1093" height="608" alt="image" src="https://github.com/user-attachments/assets/d785e8e4-5579-4ad7-8acd-ff43668d526f" />
 
