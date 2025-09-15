@@ -179,7 +179,7 @@ def euclidean_distance(position, target_position):
     return math.sqrt((position[0] - target_position[0])**2 + (position[1] - target_position[1])**2)
 
 # Load the map image
-map_image = cv2.imread("C:\\Users\\YourPath\\SmallMaze.png", cv2.IMREAD_GRAYSCALE)
+map_image = cv2.imread("MAZE.jfif", cv2.IMREAD_GRAYSCALE)
 map_image = map_image.astype(np.uint8)
 
 # Function to let the user choose the search method
